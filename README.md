@@ -12,7 +12,7 @@
 
 # Set Path
 
-```sudo nano $HOME/.profile```
+```nano ~/.bashrc```
 
 Place the following path in file and save it
 
@@ -20,7 +20,7 @@ Place the following path in file and save it
 
 Execute this command
 
-```source ~/.profile```
+```source ~/.bashrc  ```
 
 To check go version
 
